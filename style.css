@@ -1,0 +1,102 @@
+html {
+    background: rgb(0, 0, 0);
+    background-image: url("img/rainbow.jpg");
+    background-repeat: repeat-x;
+}
+
+body {
+    background: rgb(255, 255, 255);
+    text-align: center;
+    padding: 25px 0px;
+    width: 700px;
+    margin: 25px auto;
+    border-radius: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 42px;
+    letter-spacing: 2px;
+}
+
+hr {
+    width: 500px;
+}
+
+.rgb-code {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+input {
+    width: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+}
+
+#redin {
+    background: red;
+}
+
+#greenin {
+    background: green;
+}
+
+#bluein {
+    background: blue;
+}
+
+#display {
+    width: 400px;
+    height: 200px;
+    background: rgb(255, 255, 0);
+    margin: auto;
+    border: 3px solid grey;
+}
+
+button {
+    background: grey;
+    color: white;
+    border-radius: 5px;
+    padding: 2px 10px;
+    cursor: pointer;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a {
+    transition-duration: 0.4s;
+}
+
+a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.tego {
+    font-family: 'Cinzel', serif;
+    font-family: 'New Tegomin', serif;
+}
+
+button {
+    transition-duration: 0.4s;
+  }
+  
+  button:hover {
+    color: #7CB58B;
+    background-color: black;
+  }
+
+p {
+    letter-spacing: 2px;
+}
+
+
+
+
